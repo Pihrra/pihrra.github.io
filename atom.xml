@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Martin Brée]]></title>
   <link href="http://Pihrra.github.io/atom.xml" rel="self"/>
   <link href="http://Pihrra.github.io/"/>
-  <updated>2013-08-08T00:47:26+02:00</updated>
+  <updated>2013-08-08T00:52:07+02:00</updated>
   <id>http://Pihrra.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Martin Brée]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
