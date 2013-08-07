@@ -4,7 +4,7 @@
   <title><![CDATA[Martin Brée]]></title>
   <link href="http://Pihrra.github.io/atom.xml" rel="self"/>
   <link href="http://Pihrra.github.io/"/>
-  <updated>2013-08-08T00:53:28+02:00</updated>
+  <updated>2013-08-08T01:28:10+02:00</updated>
   <id>http://Pihrra.github.io/</id>
   <author>
     <name><![CDATA[Martin Brée]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[This is a test]]></title>
+    <link href="http://Pihrra.github.io/blog/2013/08/08/this-is-a-test/"/>
+    <updated>2013-08-08T01:25:00+02:00</updated>
+    <id>http://Pihrra.github.io/blog/2013/08/08/this-is-a-test</id>
+    <content type="html"><![CDATA[<p>1234567890</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Welcome]]></title>
