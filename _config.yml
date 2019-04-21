@@ -16,8 +16,8 @@
 title: Martin Brée
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal corner of the web. Any and all opinions
-  listed here are my own and not representative of my employers.
+  This is my personal corner of the internet. Any and all opinions
+  listed here are my own and do not represent those of my employer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://martinbree.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Pihrra
