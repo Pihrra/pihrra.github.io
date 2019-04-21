@@ -1,2 +1,0 @@
-*Martin Brée*
-![](photo.jpg)
