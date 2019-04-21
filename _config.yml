@@ -1,3 +1,5 @@
    name: "Martin Brée"
    markdown: kramdown
    timezone: Europe/Brussels
+   plugins:
+      - jekyll-sitemap
