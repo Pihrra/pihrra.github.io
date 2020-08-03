@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my website"
-date:   2020-08-03 09:00:00 +0200
+date:   2020-08-03 09:00:01 +0200
 categories: blog
 ---
 I finally decided to give this place some love, so expect these pages to change, to be broken, and to change again in the near future until things settle down.
